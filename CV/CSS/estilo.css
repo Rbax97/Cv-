@@ -1,0 +1,62 @@
+
+body{
+    background-color: gray;
+}
+
+
+div{
+    
+    background-color: white;
+    border: 1px solid black;
+    padding: 13px;
+    min-width: 200px;
+    max-width: 900;
+    min-height: 200px;
+    max-height: 900;
+    margin: 0% auto;
+}
+
+fieldset{
+margin-bottom: 12px;
+}
+h1{
+background-color: aquamarine;
+padding: 5px;
+border-radius: 25px;
+}
+legend{
+background-color: aquamarine;
+padding: 5px;
+border-radius: 25px;
+font-weight: bolder;
+}
+img{
+border-radius: 50%;
+
+}
+
+span{
+    font-weight: bold;
+}
+
+p{
+    font-weight:bolder;
+    color: white;
+}
+
+h2{
+    background-color: darkgreen;
+    font-weight: bolder;
+    color: white;
+
+}
+h4{
+    font-weight: bolder;
+    color:white;
+}
+
+button{
+    color: white;
+    background-color: chartreuse;
+    border-radius: 60px;
+}
